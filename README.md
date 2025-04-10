@@ -76,5 +76,3 @@ Você pode adicionar essas fontes para o copiloto buscar respostas automaticamen
 ---
 
 ## 🎉 Pronto! Seu Copiloto está criado e pronto para conversar!
-
-Se quiser, posso te ajudar a configurar um tópico específico, integrar com uma base de dados ou criar uma lógica personalizada no fluxo. Quer fazer isso juntos?
